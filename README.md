@@ -5,7 +5,7 @@ multi-page app for BA870-AC820.
 
 ## Description
 
-This GitHub repositorty contains a working prototype for an interactive
+This GitHub repository contains a working prototype for an interactive
 multi-page Streamlit Dashboard App. It demonstrates how to store data in a
 "session state" that allows data to be persistently shared across pages. 
 
@@ -22,4 +22,4 @@ connected pages in the app:
 ### Dependencies
 
 * The "requirement.txt" file contains the necessary libraries
-* You need to create a /pages subdirectory that contains the separate Python code for each page
+* You need to create a "/pages" subdirectory that contains the separate Python code for each page
