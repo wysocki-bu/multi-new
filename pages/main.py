@@ -3,7 +3,7 @@ import pandas as pd
 import yfinance as yf
 
 # Print out info for the Main page:
-st.title("Main Page: Please select a stock")
+st.title("Main Page NEW!!!!!!!: Please select a stock")
 st.header("<---- Enter ticker & dates in Sidebar Prompts.")
 
 # Sidebar inputs for ticker symbol and dates
